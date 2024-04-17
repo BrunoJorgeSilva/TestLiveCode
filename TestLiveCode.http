@@ -1,0 +1,6 @@
+@TestLiveCode_HostAddress = http://localhost:5155
+
+GET {{TestLiveCode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
